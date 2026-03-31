@@ -14,7 +14,9 @@ This project is based on the open-source projects Spinenet and LPM_segmentator, 
    - Local adaptations in our pipeline include:
      - added scripts/tools: `split_nifti_slices.py`, `run_predict_singleproc.py`, `largest_component.py`, `make_3d.py`, `otsu/*`
 
-3. **Perforemence**
-[overlay_240195146_L3-L4.tiff](https://github.com/user-attachments/files/26364275/overlay_240195146_L3-L4.tiff)
-[overlay_240195146_L4-L5.tiff](https://github.com/user-attachments/files/26364279/overlay_240195146_L4-L5.tiff)
-[overlay_240195146_L5-S1.tiff](https://github.com/user-attachments/files/26364281/overlay_240195146_L5-S1.tiff)
+### 3. Performance
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/3da5af63-378f-4f71-82c0-18d2e2e3c1ec" width="250"/> | <img src="https://github.com/user-attachments/assets/4f465bd0-4c5a-4400-9297-ab92e6143976" width="250"/> | <img src="https://github.com/user-attachments/assets/59b49cab-20be-4a72-a5f2-1dfd44c8e871" width="250"/> |
+| **(a) L3-L4** | **(b) L4-L5** | **(c) L5-S1** |
