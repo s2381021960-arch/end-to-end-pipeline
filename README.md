@@ -13,3 +13,8 @@ This project is based on the open-source projects Spinenet and LPM_segmentator, 
    - License: Apache License 2.0
    - Local adaptations in our pipeline include:
      - added scripts/tools: `split_nifti_slices.py`, `run_predict_singleproc.py`, `largest_component.py`, `make_3d.py`, `otsu/*`
+
+3. **Perforemence**
+[overlay_240195146_L3-L4.tiff](https://github.com/user-attachments/files/26364275/overlay_240195146_L3-L4.tiff)
+[overlay_240195146_L4-L5.tiff](https://github.com/user-attachments/files/26364279/overlay_240195146_L4-L5.tiff)
+[overlay_240195146_L5-S1.tiff](https://github.com/user-attachments/files/26364281/overlay_240195146_L5-S1.tiff)
